@@ -22,16 +22,4 @@ Here is a list of technlogies (at least what I remeber) that I used to develop t
 - [**CSS**]
 - [**JAVASCRIPIT**]
 
-## 🚀 Projeto
 
-#### O jogo criado durante o segundo challenge da Alura.
-
-## Frontend
-
-#### A Home
-
-<img align="center" src="./assets/home.svg"></img>
-
-#### O Jogo
-
-<img align="center" src="./assets/forca.svg"></img>
